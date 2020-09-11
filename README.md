@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 Atualmente sou aluna do Instituto federal de Educação, Ciência e Tecnologia do Ceará, cursando Ciências da Computação.
 <!--
 **kelsiane-lima/kelsiane-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
